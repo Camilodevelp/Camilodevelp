@@ -1,12 +1,13 @@
 # Hi, I'm Camilo Arias 👋
 
 ### 🚀 Software Developer | Web Technologies
-I build clean, functional, and responsive web applications with a strong focus on JavaScript. Currently expanding my software engineering skills through formal studies and hands-on projects.
+I build clean, functional, and responsive web applications with a strong focus on JavaScript, AI integration, and process automation. Currently expanding my software engineering skills through formal studies and hands-on projects.
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Automation & AI:** AI-Assisted Development, Workflow Automation, Prompt Engineering
 - **Version Control:** Git, GitHub
 - **Web Development:** Responsive Web Design, DOM Manipulation, Web Apps
 
